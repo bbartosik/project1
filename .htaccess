@@ -1,0 +1,22 @@
+#Assignment4
+
+#CustomError
+ErrorDocument 404 http://www.bartbartosik/devhelp/404.html
+
+#Cache
+
+ExpiresActive On
+ExpiresByType text/css A604800
+ExpiresByType application/x-javascript A604800
+ExpiresByType image/jpeg A604800
+ExpiresByType image/gif A604800
+ExpiresByType image/png A604800
+
+
+#Output Filter
+
+AddOutputFilterByType DEFLATE application/xhtml
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/css
+
