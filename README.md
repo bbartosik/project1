@@ -1,5 +1,8 @@
-# project1
-Urls: <br>
-p1.bbartosik.me
+# Project1
 
-This is a Project Portfolio for Web Development Class
+## Live URL
+<http://p1.bbartosik.me>
+
+## Description
+This is a Project Portfolio for Web Development Class.
+
