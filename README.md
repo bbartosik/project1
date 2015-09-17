@@ -1,5 +1,5 @@
 # project1
-Urls: 
-p1.bbartosik.me
-pone.bbartosik.me
-bbartosik.me/Project1/
+Urls: <br>
+p1.bbartosik.me<br>
+
+This is a Project Portfolio for Web Development Class
